@@ -1,2 +1,2 @@
 # kirill-made-a-repo
-A random empty repo
+A random empty repo.
